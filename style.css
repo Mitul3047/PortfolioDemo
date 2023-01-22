@@ -25,7 +25,7 @@ h1{
     width: 93% ;
 }
 .top{
-    background-image: url(images/top-banner.png) ;
+    background-image: url(image/top-banner.png) ;
     background-repeat: no-repeat;
 }
 
@@ -43,7 +43,7 @@ section{
     font-weight: bold;
 }
 .mid{
-    background-image: url(images/dream-bg.png);
+    background-image: url(image/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -57,7 +57,7 @@ section{
     margin-top: 40px;
 }
 .experience{
-    background-image: url(images/exp-bg.png);
+    background-image: url(image/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
